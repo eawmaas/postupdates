@@ -1,0 +1,16 @@
+/* stylesheet for postupdated */
+
+.postupdated h3 {
+/*	position: absolute;
+	top: 6%;*/
+	margin: 0 0 1em 0;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 0.8em;
+}
+.updated {
+	font-weight: bold;
+}
+h3 .updatedicon {
+	font-style: normal;
+}
